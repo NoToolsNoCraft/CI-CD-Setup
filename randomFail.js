@@ -1,3 +1,3 @@
-console.log("Hello Kitty");
+console.log('Hello Kitty')
 
-Console.log("Yellow Kitty");
+console.log('Yellow Kitty')
